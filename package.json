@@ -1,0 +1,8 @@
+{
+  "name": "npm-cache-corruption",
+  "version": "0.0.1",
+  "description": "demonstrates an NPM cache corruption bug",
+  "main": "index.js",
+  "author": "glasser@meteor.com",
+  "license": "BSD"
+}
