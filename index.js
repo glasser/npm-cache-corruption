@@ -1,1 +1,1 @@
-console.log("This is the version published to the registry.");
+console.log("This is the version you get from GitHub.");
